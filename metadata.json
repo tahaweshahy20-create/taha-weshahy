@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tawseela",
+  "description": "The premier ride-hailing platform for booking Tuk-tuks efficiently with a professional, secure, and user-friendly interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
